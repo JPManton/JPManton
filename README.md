@@ -1,7 +1,5 @@
 ### Hi my name is Jon! 👋
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ... Webapp to track christmas spending for my two sisters and me!
 - 🌱 I’m currently learning ... Data Science
 - 👯 I’m looking to collaborate on ... Python
